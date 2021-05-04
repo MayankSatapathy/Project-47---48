@@ -21,7 +21,7 @@ function preload(){
     obstacle4 = loadImage("images/b4.png");
     obstacle5 = loadImage("images/bomb.png");
     rstImg = loadImage("images/restart.png");
-    goImage = loadImage("images/gameOVer.png");
+    goImage = loadImage("images/gameOver.png");
     EL = loadSound("laugh.mp3")
     bgm1 = loadSound("BGM2.mp3")
 
